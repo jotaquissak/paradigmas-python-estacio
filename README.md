@@ -1,3 +1,14 @@
+[AV2](https://github.com/jotaquissak/paradigmas-python-estacio/tree/main/AV2)
+
+[Ex 001 - Trapézio](https://github.com/jotaquissak/paradigmas-python-estacio/blob/main/AV2/calculadoraDeTrapezio.py)
+
+  O programa pede os valores formatados, após isso é chamada a função com os valores sendo passados, dentro da função é feita o calculo e por fim printa o resultado.
+  
+[Ex 002 - Calculo de Imposto](https://github.com/jotaquissak/paradigmas-python-estacio/blob/main/AV2/calculoImposto.py)
+
+  O programa pede os valores formatados, chama função enviando os valores, por fim printa o valor final do produto com os impostos.
+
+[AV1](https://github.com/jotaquissak/paradigmas-python-estacio/tree/main/AV1)
 
 [Lista 1 - Ex 002](https://github.com/jotaquissak/paradigmas-python-estacio/blob/main/AV1/list1_ex002.py)
 

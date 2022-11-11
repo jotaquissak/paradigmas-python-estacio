@@ -7,6 +7,10 @@
 [Ex 002 - Calculo de Imposto](https://github.com/jotaquissak/paradigmas-python-estacio/blob/main/AV2/calculoImposto.py)
 
   O programa pede os valores formatados, chama função enviando os valores, por fim printa o valor final do produto com os impostos.
+  
+[Ex 003 - Conversor de Horário](https://github.com/jotaquissak/paradigmas-python-estacio/blob/main/AV2/conversorDeHorario.py)
+  
+  O programa pede a hora, se válido o programa segue para perguntar os minutos, se este também é válido, ele faz a conversão. Na conversão ele confere se a hora é igual a 00 ou 0, para adicionar mais 12 horas ou se hora é maior que 12 para remover 12 e nos dois casos já define como PM. Após isso ele faz a formatação se o número recebido for incompleto para que a saída seja adequada e segue para a saída. Na saída ele recebe o horário formatado e o tipo (am ou pm), com isso printa a resposta e retorna ao while avisando que para poder sair é necessário digitar uma hora negativa.
 
 [AV1](https://github.com/jotaquissak/paradigmas-python-estacio/tree/main/AV1)
 
